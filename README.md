@@ -87,7 +87,7 @@
   <a href="mailto:thehamzamehmood@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-URL.com">
+  <a href="https://hamzamehmood.tech/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" />
   </a>
 </p>
